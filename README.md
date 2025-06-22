@@ -19,9 +19,6 @@ This project analyzes Telegram group chat messages using advanced NLP and cluste
 - **bot_main.py**  
   Entry point script to launch the Telegram bot.
 
-- **venv/**  
-  Python virtual environment folder (not committed to git).
-
 ---
 
 ## Selected Models for Message Analysis
@@ -91,7 +88,6 @@ The bot will process the chat, generate reports, and allow you to view activity 
 
 - Logs are stored in `tg_analyst/logs` and `tg_bot/logs`.
 - Raw chat data and analysis results are stored in `tg_analyst/data` and `tg_bot/data`.
-- Testing scripts (if any) are in the `tests/` directory.
 - For details on the analysis pipeline, see `tg_analyst/run_analysis.py` and related utilities.
 
 ---
