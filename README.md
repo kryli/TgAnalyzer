@@ -102,7 +102,7 @@ For issues or contributions, please open an issue on the GitHub repository or co
 
 ---
 
-Project developed by [Krylov Leonid](https://github.com/kryli) and [Kozlovskii Evgeniy](https://github.com/ekozlovskii) and [Boldurev Ivan](https://github.com/Boldyrevivan1)
+Project developed by [Krylov Leonid](https://github.com/kryli) and [Kozlovskii Evgeniy](https://github.com/ekozlovskii) and [Boldyrev Ivan](https://github.com/Boldyrevivan1)
 
 
 
