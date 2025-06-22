@@ -1,0 +1,31 @@
+# Telegram API client
+telethon
+
+# Data processing and NLP
+pandas
+nltk
+pymorphy3
+gensim
+
+# Visualization libraries
+matplotlib
+seaborn
+wordcloud
+pyLDAvis
+
+# Topic modeling and machine learning
+scikit-learn
+bertopic
+sentence-transformers
+hdbscan
+umap-learn
+top2vec
+
+# Environment variable management
+python-dotenv
+
+# OpenAI API client
+openai
+
+# Async Telegram client helpers
+aiogram

@@ -1,0 +1,53 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VSCode settings
+.vscode/
+.vscode/*
+
+# macOS system files
+.DS_Store
+
+# Logs
+*.log
+tg_analyst/logs/
+tg_bot/logs/
+
+# Env variables
+.env
+
+# Chat data and results
+tg_analyst/data/raw/
+tg_analyst/data/results/
+tg_bot/data/raw/
+tg_bot/data/results/
+tg_bot/temp/
+
+# Telethon session files
+*.session
+*.session-journal
+
+# pyLDAvis artifacts
+*.html
+
+# Reports
+*.md
+
+# Cache
+.cache/
+
+# Testing
+test.py
+.pytest_cache/
+.coverage
+htmlcov/
